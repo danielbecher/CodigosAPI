@@ -7,7 +7,7 @@ print('-= PREVISÃO DO TEMPO =-')
 print('-=' *15)
 
 #Configurando a chave API.
-chaveapi = "dd799cb186a2676e00e8480940b66b7d" #Chave cadastrada no site openweathermap.org
+chaveapi = "INSIRA_AQUI_A_CHAVE" #Chave cadastrada no site openweathermap.org
 
 #Perguntamos qual a cidade que desejamos saber como está o tempo?
 cidade = input('Para qual cidade você deseja consultar o tempo neste momento? ')
